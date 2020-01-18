@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480878030189",
+    "firebase_url": "https://sacredgames-14ef7.firebaseio.com",
+    "project_id": "sacredgames-14ef7",
+    "storage_bucket": "sacredgames-14ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480878030189:android:e9f11f3cdc5d2639ecfe64",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480878030189-al8vn2rbvsi2odsp7kst60eopi5pfe66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYIeOu9WuJRJdXTigPyHjohXhdTonbjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480878030189-al8vn2rbvsi2odsp7kst60eopi5pfe66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
